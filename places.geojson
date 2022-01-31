@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Drunken Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26169776916504,
+          38.644997736824095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Medina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1993203163147,
+          38.63241893500507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sauce on the Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1897582411766,
+          38.62960285819247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "McGurks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20994454622267,
+          38.607596354603245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rooster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24201303720473,
+          38.60114254388391
+        ]
+      }
+    }
+  ]
+}
