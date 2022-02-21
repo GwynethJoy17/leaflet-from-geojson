@@ -280,3 +280,7 @@ marker.bindPopup("FV1").openPopup();
 
 var marker = L.marker([38.607329055301065, -90.36436550316115]).addTo(map);
 marker.bindPopup("RH1").openPopup();
+$.getJSON("rodents.geojson",function(data){
+    // add GeoJSON layer to the map once the file is loaded
+    L.geoJson(data).addTo(map);
+  });
